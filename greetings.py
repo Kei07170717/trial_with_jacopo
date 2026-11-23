@@ -7,4 +7,5 @@ def addition_func(n, m):
 
 print(greeting())
 print(addition_func(3,4))
-print("Hello i am jacopo")
+def hello_jacopo():
+    print("Hello i am jacopo")
